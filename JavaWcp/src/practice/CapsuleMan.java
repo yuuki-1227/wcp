@@ -17,7 +17,7 @@ public class CapsuleMan {
 		this.age = age;
 	}
 	
-	public String detName() {
+	public String getName() {
 		return name;
 	}
 }
