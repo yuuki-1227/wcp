@@ -1,4 +1,4 @@
-package polymorphism;
+package polymorphism.human;
 
 public class Polymorphism01 {
     public static void main(String[] args) {
